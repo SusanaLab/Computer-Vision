@@ -1,6 +1,3 @@
-Sí 👍 aquí tienes un **README listo para copiar y pegar** (solo ajustas si quieres):
-
----
 
 # Proyecto 6: Computer Vision
 
